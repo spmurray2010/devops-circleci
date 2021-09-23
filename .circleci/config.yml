@@ -22,3 +22,6 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
+  say-hello-again-workflow:
+    jobs:
+      - say-hello
